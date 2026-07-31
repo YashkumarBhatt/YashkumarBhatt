@@ -4,7 +4,7 @@ I'm a Data Science (AI/ML) Professional, currently spending most of my time trai
 
 I'm not chasing buzzwords. I care about *why* a model does what it does — getting encoding, feature scaling, and hyperparameter tuning actually right, not just running `.fit()` and calling it done.
 
-I'm currently looking for full-time or internship roles in **Machine Learning / Data Science**, and I'm also open to **Data Analyst** roles.
+I'm currently looking for full-time roles in **Machine Learning / Data Science**, and I'm also open to **Data Analyst** roles.
 
 ---
 
