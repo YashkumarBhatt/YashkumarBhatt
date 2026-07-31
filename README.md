@@ -1,6 +1,6 @@
 # Hey, I'm Yash 👋
 
-I'm a Data Science (AI/ML) intern, currently spending most of my time 
+I'm a Data Science (AI/ML) Professional, currently spending most of my time 
 training and deploying ML models end-to-end — from preprocessing decisions 
 to building Streamlit apps others can actually use.
 
