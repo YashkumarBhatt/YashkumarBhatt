@@ -49,8 +49,8 @@ BI dashboards and analytics across HR, sales, environmental, and urban mobility 
 
 ## 📬 Let's Connect!
 
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-URL](#)
-- **Email:** [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)
+- **LinkedIn:** www.linkedin.com/in/yashkumarbhatt
+- **Email:** yashbhatt008@gmail.com
 
 <!--
 **YashkumarBhatt/YashkumarBhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
